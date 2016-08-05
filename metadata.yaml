@@ -1,0 +1,35 @@
+_repo: The-Early-Poems-of-Alfred-Lord-Tennyson_8601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+  editor:
+    agent_name: Collins, John Churton
+    alias: Collins, J. Churton (John Churton)
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '4668'
+    url: http://www.gutenberg.org/2009/agents/4668
+    wikipedia: http://en.wikipedia.org/wiki/John_Churton_Collins
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+- GITenberg
+title: The Early Poems of Alfred Lord Tennyson
+url: http://www.gutenberg.org/ebooks/8601
